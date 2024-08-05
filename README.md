@@ -6,7 +6,7 @@ Bu proje, Wikipedia verilerini kullanarak doğal dil işleme (NLP) teknikleri il
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- 
+
 ## Kurulum
 
 Projeyi çalıştırmadan önce gerekli bağımlılıkları yüklemeniz gerekmektedir. Bağımlılıkları yüklemek için aşağıdaki komutu kullanabilirsiniz:
