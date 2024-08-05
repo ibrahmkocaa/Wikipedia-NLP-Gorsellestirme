@@ -1,5 +1,5 @@
 # NLP Wiki Analysis
-
+https://github.com/ibrahmkocaa/Wikipedia-NLP-Gorsellestirme/tree/main
 Bu proje, Wikipedia verilerini kullanarak doğal dil işleme (NLP) teknikleri ile veri görselleştirme yapmayı amaçlamaktadır. Projede kullanılan kütüphaneler arasında NLTK, scikit-learn, TextBlob ve WordCloud bulunmaktadır.
 
 ## İçindekiler
